@@ -16,8 +16,7 @@ ___
 | UP  | Look up |
 
 ## Credits for the GML version
-PhobosAvenger
-Gfdants
+PhobosAvenger & Gfdants
 
 ## Credit for the original game 
 Matt Thorson & Noel Berry
