@@ -4,6 +4,10 @@
 - Includes a built-in Map Editor.
 - It doesn't have any sound effects, I didn't have time to implement that.
 - Saved Levels in %LocalAppdata%/CelesteGML folder
+
+<img src="https://i.imgur.com/WxS59Kv.png" width="50%" height="50%" /></img>
+<img src="https://i.imgur.com/MBkRxMG.png" width="50%" height="50%" /></img>
+<img src="https://i.imgur.com/EDdJeaW.png" width="50%" height="50%" /></img>
 ___
 ## Controls
 | Button | Action |
